@@ -1,0 +1,10 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Christina Braun",
+  "classifications": ["Common", "Console"],
+  "identity": "chrstnbrn.AOC.FSharp",
+  "name": "Advent of Code FSharp",
+  "shortName": "aoc",
+  "preferNameDirectory": true,
+  "sourceName": "DayXX"
+}

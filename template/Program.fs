@@ -3,7 +3,7 @@ open DayXX
 
 [<EntryPoint>]
 let main argv =
-    let input = File.ReadAllLines "./input.txt"
+    let input = File.ReadAllText "./input.txt"
 
     let resultPart1 = solvePart1 input
     printfn "Part 1: %d" resultPart1
